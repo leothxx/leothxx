@@ -9,7 +9,7 @@
 <p>
  <span>I study everyday, and write down what I studied on my blog🎯</span><br/>
 </p>
-<a href="https://leothx_x.tistory.com" target="_blank">
+<a href="https://leothx-x.tistory.com" target="_blank">
  <img src="https://img.shields.io/badge/myBlog-CD313A?style=flat-square&logo=Blogger&logoColor=white"/>
 </a>
 
