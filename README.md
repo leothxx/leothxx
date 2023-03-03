@@ -1,4 +1,4 @@
-<h1>🖐 Hello, there</h1>
+<h1>🖐 こんにちは</h1>
 
 <p>
  Hi, I'm Ha-neul Seo but I go by leo, <b>leo</b> plz.😀
